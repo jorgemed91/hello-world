@@ -1,0 +1,43 @@
+##################
+# Test Configuration #
+##################
+
+Host PC:
+
+Date Created :  Monday, April 23, 2018
+Tester Name :  Jorge Medina
+Tester Domain Name :  SERVERATU
+Test PC Host Name :  SERVERATU
+Test PC OS Version :  Microsoft Windows Win32NT 
+Test PC CPU Type :  Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz
+
+Alaris System Configuration:
+
+PCU
+Module Number : 8015
+Serial Number : 13918019
+Main Processor : 12.1.0.31
+Boot Block : 12.1.0.12
+Keyboard : 9.12.41.2
+Power Supply : 8.15.6.0
+Wireless Main : 12.1.0.31
+Wireless Boot Version : 12.1.0.31
+
+Software Applications:
+
+Application Name: Alaris System Maintenance
+Application Version: 12..0.1.23
+
+Application Name: Alaris Systems Manager
+Application Version: 12.0.1.30
+
+Test Data:
+
+Test Case ID : 34823
+DataSet Name : TDD-M2-Dataset
+RF Card Type : Motorola
+RF Serial Number : N/A
+Server Type : N/A
+Comments : N/A
+
+End of Configuration.
