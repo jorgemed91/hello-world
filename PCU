@@ -4,11 +4,11 @@
 
 Host PC:
 
-Date Created :  Tuesday, April 24, 2018
-Tester Name :  Jorge Medina
-Tester Domain Name :  SERVERATU
-Test PC Host Name :  SERVERATU
-Test PC OS Version :  Microsoft Windows Server 2016 Standard 
+Date Created :  Wednesday, May 2nd,  2018
+Tester Name :  JorgePC
+Tester Domain Name :  DESKTOP-QHSGPE3
+Test PC Host Name :  DESKTOP-QHSGPE3
+Test PC OS Version :  Microsoft Windows 10 Pro 64 bits 
 Test PC CPU Type :  Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz
 
 Alaris System Configuration:
@@ -25,16 +25,16 @@ Wireless Boot Version : 12.1.0.31
 
 Software Applications:
 
-Application Name: Alaris System Maintenance
-Application Version: 12..0.1.23
+Application Name: ASM
+Application Version: 12.0.1.24
 
-Application Name: Alaris Systems Manager
-Application Version: 12.0.1.30
+Application Name: Systems Manager
+Application Version: 12.0.1.31
 
 Test Data:
 
-Test Case ID : 34823
-DataSet Name : TDD-M2-Dataset
+Test Case ID : 35315
+DataSet Name : 3E_dataset_ISIS_MR1.gre
 RF Card Type : Motorola
 RF Serial Number : N/A
 Server Type : N/A
