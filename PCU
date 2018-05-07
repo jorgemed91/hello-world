@@ -24,6 +24,15 @@ Wireless Main : 12.1.0.32
 Wireless Boot Version : 12.1.0.32
 
 Channel A
+Module Name : LVP
+Module Number : 8100
+Serial Number : 14643428
+Main Processor : 12.1.0.32 
+Boot Block : 9.1.17.7
+Keyboard : 1.1.1.0
+Safety: 1.1.1.0
+
+Channel A
 Module Name : ETCO2
 Module Number : 8300
 Serial Number : 12352408
