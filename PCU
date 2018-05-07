@@ -41,3 +41,63 @@ Server Type : N/A
 Comments : N/A
 
 End of Configuration.
+##################
+# Test Configuration #
+##################
+
+Host PC:
+
+Date Created :  lunes, 7 de mayo de 2018
+Tester Name :  Jorge Medina
+Tester Domain Name :  DESKTOP-QHSGPE3
+Test PC Host Name :  DESKTOP-QHSGPE3
+Test PC OS Version :  Microsoft Windows Win32NT 
+Test PC CPU Type :  Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz
+
+Alaris System Configuration:
+
+PCU
+Module Number : 8015
+Serial Number : 13918019
+Main Processor : 12.1.0.32
+Boot Block : 12.1.0.12
+Keyboard : 9.12.41.2
+Power Supply : 8.15.6.0
+Wireless Main : 12.1.0.32
+Wireless Boot Version : 12.1.0.32
+
+Channel A
+Module Name : ETCO2
+Module Number : 8300
+Serial Number : 12352408
+Main Processor : 9.33.0.50
+Software Version :2.15.0.0
+Boot Block : 1.15.0.0
+Keyboard : 1.15.8.0
+
+Channel B
+Module Name : PCA
+Module Number : 8120
+Serial Number : 14307097
+Main Processor : 9.33.0.50
+Boot Block : 1.15.16.11
+Keyboard : 1.16.3.0
+
+Software Applications:
+
+Application Name: ASM
+Application Version: 12.0.1.24
+
+Application Name: Systems Manager
+Application Version: 12.0.1.31
+
+Test Data:
+
+Test Case ID : 37726
+DataSet Name : 3E_dataset_ISIS_MR1.gre
+RF Card Type : Motorola
+RF Serial Number : N/A
+Server Type : N/A
+Comments : N/A
+
+End of Configuration.
