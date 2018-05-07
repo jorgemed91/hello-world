@@ -1,0 +1,64 @@
+Step1
+- "CRITICAL CARE UNIT" profile was selected.
+- Patient id: 117 was entered.
+- PCU main screen is displayed.
+
+Step2
+- EtCO2 started monitoring vital signs.
+
+Step3
+- RR LOW lmit was set to 18.
+- Alarm was triggered due to the RR was under 18.
+
+Step4
+- Respiration Rate was adjusted to 21.
+- No alarms were triggered.
+
+Step5
+- A syringe was installed in the PCA.
+- Key was set in PROGRAM position.
+- Time of the day was confirmed.
+- Syringe Monoject 35 mL was selected.
+
+Step6
+- Selected hydroMORPHone.
+- Selected Chronic Pain.
+- Drug setup page was displayed.
+
+Step7
+- RR LOW was set to 17.
+- Infusion Modes page was displayed.
+
+Step8
+- Infusion was started.
+- PCA marquee displayed:
+HYDROMORPHONE 0.2 MG/H CONT
+
+Step9
+- The following alarm was triggered:
+PCU DOSE REQUEST BUTTON STUCK
+
+Step10
+- Infusion Low Priority alert accessory popup was displayed.
+
+Step11
+- Low Respiratory Rate alarm was triggered.
+- EtCO2 displayed LOW RR in the marquee.
+
+Step12
+- PCA Monitoring Pause alarm was triggered.
+- PCU displayed the following:
+PCA Paused
+PCA Infusion has paused due to a decline un respiratory status.
+Check Patient.
+
+Step13
+- Infusion PCA Monitoring Pause alert was displayed on the PCU instead of the Infusion Low Priority alert.
+
+Step14
+- Infusion PCA Monitoring Pause alert accessory was cleared.
+
+Step15
+- PCU Dose Request Button Stuck alarm was displayed again.
+- PCA displayed the following in the marquee:
+HANDSET STUCK, PAUSE-RESTART CHANNEL
