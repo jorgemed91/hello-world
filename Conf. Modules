@@ -1,0 +1,25 @@
+Channel A
+Module Name : LVP
+Module Number : 8100
+Serial Number : 14643428
+Main Processor : 12.1.0.32 
+Boot Block : 9.1.17.7
+Keyboard : 1.1.1.0
+Safety: 1.1.1.0
+
+Channel A
+Module Name : ETCO2
+Module Number : 8300
+Serial Number : 12352408
+Main Processor : 9.33.0.50
+Software Version :2.15.0.0
+Boot Block : 1.15.0.0
+Keyboard : 1.15.8.0
+
+Channel B
+Module Name : PCA
+Module Number : 8120
+Serial Number : 14307097
+Main Processor : 9.33.0.50
+Boot Block : 1.15.16.11
+Keyboard : 1.16.3.0
