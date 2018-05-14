@@ -23,3 +23,53 @@ Serial Number : 14307097
 Main Processor : 9.33.0.50
 Boot Block : 1.15.16.11
 Keyboard : 1.16.3.0
+
+---------------------------------------------
+
+Alaris System Configuration:
+
+PCU
+Module Number : 8015
+Serial Number : 13918019
+Main Processor : 12.1.0.34
+Boot Block : 12.1.0.12
+Keyboard : 9.12.41.2
+Power Supply : 8.15.6.0
+Wireless Main : 12.1.0.34
+Wireless Boot Version : 12.1.0.34
+
+Channel A
+Module Name : LVP
+Module Number : 8100
+Serial Number : 14729306
+Main Processor : 12.1.0.32
+Boot Block : 12.0.0.18
+Keyboard : 1.1.1.0
+Safety : 1.1.1.0
+
+Channel B
+Module Name : LVP
+Module Number : 8100
+Serial Number : 14728846
+Main Processor : 12.1.0.32
+Boot Block : 12.0.0.18
+Keyboard : 1.1.1.0
+Safety : 1.1.1.0
+
+Channel C
+Module Name : LVP
+Module Number : 8100
+Serial Number : 14729245
+Main Processor : 12.1.0.32
+Boot Block : 12.0.0.18
+Keyboard : 1.1.1.0
+Safety : 1.1.1.0
+
+Channel D
+Module Name : SPO2 MASIMO
+Module Number : 8220
+Serial Number : 48513978
+Main Processor : 9.33.0.50
+Software Version :3.0.2.2
+Boot Block : 1.5.4.0
+Keyboard : 1.10.0.0
