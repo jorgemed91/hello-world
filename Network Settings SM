@@ -4,3 +4,13 @@ Type: AES
 Passphrase: 9876543210np!
 Encryption Key: 7E41C9AC3A47C3DDB9D0D9EB857ECB92
 Host: 172.16.15.24
+
+
+SSID: ISE Test
+Security Type: WPA2-EAP-TLS
+Type: AES
+Identity: album-user02
+Valid Passphrase: wirelessuser@@3
+Passphrase: 9876543210np!
+Encryption Key: 7E41C9AC3A47C3DDB9D0D9EB857ECB92
+Host: 172.16.15.24
