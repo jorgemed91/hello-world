@@ -1,0 +1,390 @@
+
+                               -----------------------     This Viewer Screen Update Count ( 1 )     ----------------------- 
+
+Current Logs Directory at: =>   " C:\Program Files (x86)\Becton Dickinson\CATS 7.0\medley " 
+Reading Log from File:       => "( 1 )_PCU_SN_13918019_LogsCapturedTime_06_04_2018_03_32_54 p. m..logs"
+At Time: 04/06/2018 03:32:57 p. m.
+
+<?xml version='1.0' encoding='UTF-8'?>
+<Log>
+   <DEV_MODULE_DIAGNOSTICS_REPORT>
+      <DEV_TRANSACTION_ID Description='' Value='0'/>
+      <DEV_HISTORICAL_DATA_NEST>
+         <DEV_HISTORICAL_DATE_TIME Description='' Value='581441539'/>
+         <DEV_REASON_CODE Description='MODULE_ATTACHED' Value='7'/>
+         <DEV_SEQUENCE_NUMBER Description='' Value='47834'/>
+      </DEV_HISTORICAL_DATA_NEST>
+      <DEV_MODULE_IUI_DIAGNOSTICS_NEST>
+         <DEV_MODULE_NEST>
+            <DEV_PM_MODEL_NUMBER Description='' Value='8015'/>
+            <DEV_PM_SERIAL_NUMBER Description='' Value='13918019'/>
+            <DEV_MODULE_MODEL_NUMBER Description='' Value='8100'/>
+            <DEV_MODULE_SERIAL_NUMBER Description='' Value='14729245'/>
+         </DEV_MODULE_NEST>
+         <DEV_IUI_CONNECTION_ID Description='' Value='581174315'/>
+         <DEV_TOTAL_NUM_IUI_PACKET_ERRORS Description='' Value='0'/>
+         <DEV_PERCENTAGE_IUI_PACKET_ERRORS Value='0.0000'/>
+         <DEV_MAX_TIME_BETWEEN_IUI_POLLING Description='' Value='400'/>
+         <DEV_MODULE_IUI_DISCONNECT_SCENARIO Description='NOMINAL_DISCONNECT' Value='0'/>
+      </DEV_MODULE_IUI_DIAGNOSTICS_NEST>
+   </DEV_MODULE_DIAGNOSTICS_REPORT>
+   <CFG_RESPONSE_ATTACHED_UNITS>
+      <CFG_TRANSACTION_ID Description='' Value='0'/>
+      <CFG_HISTORICAL_DATA_NEST>
+         <CFG_HISTORICAL_DATE_TIME Description='' Value='581441539'/>
+         <CFG_REASON_CODE Description='MODULE_ATTACHED' Value='7'/>
+         <CFG_SEQUENCE_NUMBER Description='' Value='47835'/>
+      </CFG_HISTORICAL_DATA_NEST>
+      <CFG_PM_MODEL_NUMBER Description='' Value='8015'/>
+      <CFG_PM_SERIAL_NUMBER Description='' Value='13918019'/>
+      <CFG_ATTACHED_UNITS_ARRAY>
+         <CFG_ATTACHED_UNITS_NEST>
+            <CFG_MODULE_TYPE Description='LVP' Value='0'/>
+            <CFG_MODULE_MODEL_NUMBER Description='' Value='8100'/>
+            <CFG_MODULE_SERIAL_NUMBER Description='' Value='14729245'/>
+            <CFG_MODULE_VERSION Value='12.1.0.34'/>
+            <CFG_UPDATE_TIMESTAMP Description='' Value='579798991'/>
+         </CFG_ATTACHED_UNITS_NEST>
+      </CFG_ATTACHED_UNITS_ARRAY>
+   </CFG_RESPONSE_ATTACHED_UNITS>
+</Log>
+
+
+                               -----------------------     This Viewer Screen Update Count ( 2 )     ----------------------- 
+
+Current Logs Directory at: =>   " C:\Program Files (x86)\Becton Dickinson\CATS 7.0\medley " 
+Reading Log from File:       => "( 2 )_PCU_SN_13918019_LogsCapturedTime_06_04_2018_03_34_18 p. m..logs"
+At Time: 04/06/2018 03:34:20 p. m.
+
+<?xml version='1.0' encoding='UTF-8'?>
+<Log>
+   <CFG_RESPONSE_ATTACHED_UNITS>
+      <CFG_TRANSACTION_ID Description='' Value='0'/>
+      <CFG_HISTORICAL_DATA_NEST>
+         <CFG_HISTORICAL_DATE_TIME Description='' Value='581441622'/>
+         <CFG_REASON_CODE Description='MODULE_DETACHED' Value='8'/>
+         <CFG_SEQUENCE_NUMBER Description='' Value='47836'/>
+      </CFG_HISTORICAL_DATA_NEST>
+      <CFG_PM_MODEL_NUMBER Description='' Value='8015'/>
+      <CFG_PM_SERIAL_NUMBER Description='' Value='13918019'/>
+   </CFG_RESPONSE_ATTACHED_UNITS>
+   <DEV_PM_DIAGNOSTICS_REPORT>
+      <DEV_TRANSACTION_ID Description='' Value='0'/>
+      <DEV_HISTORICAL_DATA_NEST>
+         <DEV_HISTORICAL_DATE_TIME Description='' Value='581441622'/>
+         <DEV_REASON_CODE Description='MODULE_DETACHED' Value='8'/>
+         <DEV_SEQUENCE_NUMBER Description='' Value='47837'/>
+      </DEV_HISTORICAL_DATA_NEST>
+      <DEV_PM_IUI_DIAGNOSTICS_NEST>
+         <DEV_MODULE_NEST>
+            <DEV_PM_MODEL_NUMBER Description='' Value='8015'/>
+            <DEV_PM_SERIAL_NUMBER Description='' Value='13918019'/>
+            <DEV_MODULE_MODEL_NUMBER Description='' Value='8100'/>
+            <DEV_MODULE_SERIAL_NUMBER Description='' Value='14729245'/>
+         </DEV_MODULE_NEST>
+         <DEV_IUI_CONNECTION_ID Description='' Value='581441539'/>
+         <DEV_TOTAL_NUM_IUI_PACKET_ERRORS Description='' Value='0'/>
+         <DEV_TOTAL_NUM_IUI_PACKETS Description='' Value='334'/>
+         <DEV_PERCENTAGE_IUI_PACKET_ERRORS Value='0.0000'/>
+         <DEV_TOTAL_NUM_IUI_RETRIES Description='' Value='3'/>
+         <DEV_MAX_NUM_CONSECUTIVE_IUI_RETRIES Description='' Value='0'/>
+         <DEV_PM_IUI_DISCONNECT_SCENARIO Description='IDLE_DISCONNECT' Value='0'/>
+      </DEV_PM_IUI_DIAGNOSTICS_NEST>
+   </DEV_PM_DIAGNOSTICS_REPORT>
+</Log>
+
+
+                               -----------------------     This Viewer Screen Update Count ( 3 )     ----------------------- 
+
+Current Logs Directory at: =>   " C:\Program Files (x86)\Becton Dickinson\CATS 7.0\medley " 
+Reading Log from File:       => "( 3 )_PCU_SN_13918019_LogsCapturedTime_06_04_2018_03_34_34 p. m..logs"
+At Time: 04/06/2018 03:34:36 p. m.
+
+<?xml version='1.0' encoding='UTF-8'?>
+<Log>
+   <DEV_MODULE_DIAGNOSTICS_REPORT>
+      <DEV_TRANSACTION_ID Description='' Value='0'/>
+      <DEV_HISTORICAL_DATA_NEST>
+         <DEV_HISTORICAL_DATE_TIME Description='' Value='581441639'/>
+         <DEV_REASON_CODE Description='MODULE_ATTACHED' Value='7'/>
+         <DEV_SEQUENCE_NUMBER Description='' Value='47838'/>
+      </DEV_HISTORICAL_DATA_NEST>
+      <DEV_MODULE_IUI_DIAGNOSTICS_NEST>
+         <DEV_MODULE_NEST>
+            <DEV_PM_MODEL_NUMBER Description='' Value='8015'/>
+            <DEV_PM_SERIAL_NUMBER Description='' Value='13918019'/>
+            <DEV_MODULE_MODEL_NUMBER Description='' Value='8100'/>
+            <DEV_MODULE_SERIAL_NUMBER Description='' Value='14729245'/>
+         </DEV_MODULE_NEST>
+         <DEV_IUI_CONNECTION_ID Description='' Value='581441539'/>
+         <DEV_TOTAL_NUM_IUI_PACKET_ERRORS Description='' Value='0'/>
+         <DEV_PERCENTAGE_IUI_PACKET_ERRORS Value='0.0000'/>
+         <DEV_MAX_TIME_BETWEEN_IUI_POLLING Description='' Value='250'/>
+         <DEV_MODULE_IUI_DISCONNECT_SCENARIO Description='NOMINAL_DISCONNECT' Value='0'/>
+      </DEV_MODULE_IUI_DIAGNOSTICS_NEST>
+   </DEV_MODULE_DIAGNOSTICS_REPORT>
+   <CFG_RESPONSE_ATTACHED_UNITS>
+      <CFG_TRANSACTION_ID Description='' Value='0'/>
+      <CFG_HISTORICAL_DATA_NEST>
+         <CFG_HISTORICAL_DATE_TIME Description='' Value='581441639'/>
+         <CFG_REASON_CODE Description='MODULE_ATTACHED' Value='7'/>
+         <CFG_SEQUENCE_NUMBER Description='' Value='47839'/>
+      </CFG_HISTORICAL_DATA_NEST>
+      <CFG_PM_MODEL_NUMBER Description='' Value='8015'/>
+      <CFG_PM_SERIAL_NUMBER Description='' Value='13918019'/>
+      <CFG_ATTACHED_UNITS_ARRAY>
+         <CFG_ATTACHED_UNITS_NEST>
+            <CFG_MODULE_TYPE Description='LVP' Value='0'/>
+            <CFG_MODULE_MODEL_NUMBER Description='' Value='8100'/>
+            <CFG_MODULE_SERIAL_NUMBER Description='' Value='14729245'/>
+            <CFG_MODULE_VERSION Value='12.1.0.34'/>
+            <CFG_UPDATE_TIMESTAMP Description='' Value='579798991'/>
+         </CFG_ATTACHED_UNITS_NEST>
+      </CFG_ATTACHED_UNITS_ARRAY>
+   </CFG_RESPONSE_ATTACHED_UNITS>
+</Log>
+
+
+                               -----------------------     This Viewer Screen Update Count ( 4 )     ----------------------- 
+
+Current Logs Directory at: =>   " C:\Program Files (x86)\Becton Dickinson\CATS 7.0\medley " 
+Reading Log from File:       => "( 4 )_PCU_SN_13918019_LogsCapturedTime_06_04_2018_03_34_48 p. m..logs"
+At Time: 04/06/2018 03:34:50 p. m.
+
+<?xml version='1.0' encoding='UTF-8'?>
+<Log>
+   <CFG_RESPONSE_ATTACHED_UNITS>
+      <CFG_TRANSACTION_ID Description='' Value='0'/>
+      <CFG_HISTORICAL_DATA_NEST>
+         <CFG_HISTORICAL_DATE_TIME Description='' Value='581441653'/>
+         <CFG_REASON_CODE Description='MODULE_ATTACHED' Value='7'/>
+         <CFG_SEQUENCE_NUMBER Description='' Value='47840'/>
+      </CFG_HISTORICAL_DATA_NEST>
+      <CFG_PM_MODEL_NUMBER Description='' Value='8015'/>
+      <CFG_PM_SERIAL_NUMBER Description='' Value='13918019'/>
+      <CFG_ATTACHED_UNITS_ARRAY>
+         <CFG_ATTACHED_UNITS_NEST>
+            <CFG_MODULE_TYPE Description='LVP' Value='0'/>
+            <CFG_MODULE_MODEL_NUMBER Description='' Value='8100'/>
+            <CFG_MODULE_SERIAL_NUMBER Description='' Value='14729245'/>
+            <CFG_MODULE_VERSION Value='12.1.0.34'/>
+            <CFG_UPDATE_TIMESTAMP Description='' Value='579798991'/>
+         </CFG_ATTACHED_UNITS_NEST>
+         <CFG_ATTACHED_UNITS_NEST>
+            <CFG_MODULE_TYPE Description='PCA' Value='3'/>
+            <CFG_MODULE_MODEL_NUMBER Description='' Value='8120'/>
+            <CFG_MODULE_SERIAL_NUMBER Description='' Value='14307097'/>
+            <CFG_MODULE_VERSION Value='9.33.0.50'/>
+         </CFG_ATTACHED_UNITS_NEST>
+      </CFG_ATTACHED_UNITS_ARRAY>
+   </CFG_RESPONSE_ATTACHED_UNITS>
+</Log>
+
+
+                               -----------------------     This Viewer Screen Update Count ( 5 )     ----------------------- 
+
+Current Logs Directory at: =>   " C:\Program Files (x86)\Becton Dickinson\CATS 7.0\medley " 
+Reading Log from File:       => "( 5 )_PCU_SN_13918019_LogsCapturedTime_06_04_2018_03_35_09 p. m..logs"
+At Time: 04/06/2018 03:35:11 p. m.
+
+<?xml version='1.0' encoding='UTF-8'?>
+<Log>
+   <CFG_RESPONSE_ATTACHED_UNITS>
+      <CFG_TRANSACTION_ID Description='' Value='0'/>
+      <CFG_HISTORICAL_DATA_NEST>
+         <CFG_HISTORICAL_DATE_TIME Description='' Value='581441674'/>
+         <CFG_REASON_CODE Description='MODULE_DETACHED' Value='8'/>
+         <CFG_SEQUENCE_NUMBER Description='' Value='47841'/>
+      </CFG_HISTORICAL_DATA_NEST>
+      <CFG_PM_MODEL_NUMBER Description='' Value='8015'/>
+      <CFG_PM_SERIAL_NUMBER Description='' Value='13918019'/>
+      <CFG_ATTACHED_UNITS_ARRAY>
+         <CFG_ATTACHED_UNITS_NEST>
+            <CFG_MODULE_TYPE Description='LVP' Value='0'/>
+            <CFG_MODULE_MODEL_NUMBER Description='' Value='8100'/>
+            <CFG_MODULE_SERIAL_NUMBER Description='' Value='14729245'/>
+            <CFG_MODULE_VERSION Value='12.1.0.34'/>
+            <CFG_UPDATE_TIMESTAMP Description='' Value='579798991'/>
+         </CFG_ATTACHED_UNITS_NEST>
+      </CFG_ATTACHED_UNITS_ARRAY>
+   </CFG_RESPONSE_ATTACHED_UNITS>
+   <DEV_PM_DIAGNOSTICS_REPORT>
+      <DEV_TRANSACTION_ID Description='' Value='0'/>
+      <DEV_HISTORICAL_DATA_NEST>
+         <DEV_HISTORICAL_DATE_TIME Description='' Value='581441674'/>
+         <DEV_REASON_CODE Description='MODULE_DETACHED' Value='8'/>
+         <DEV_SEQUENCE_NUMBER Description='' Value='47842'/>
+      </DEV_HISTORICAL_DATA_NEST>
+      <DEV_PM_IUI_DIAGNOSTICS_NEST>
+         <DEV_MODULE_NEST>
+            <DEV_PM_MODEL_NUMBER Description='' Value='8015'/>
+            <DEV_PM_SERIAL_NUMBER Description='' Value='13918019'/>
+            <DEV_MODULE_MODEL_NUMBER Description='' Value='8120'/>
+            <DEV_MODULE_SERIAL_NUMBER Description='' Value='14307097'/>
+         </DEV_MODULE_NEST>
+         <DEV_IUI_CONNECTION_ID Description='' Value='581441653'/>
+         <DEV_TOTAL_NUM_IUI_PACKET_ERRORS Description='' Value='0'/>
+         <DEV_TOTAL_NUM_IUI_PACKETS Description='' Value='79'/>
+         <DEV_PERCENTAGE_IUI_PACKET_ERRORS Value='0.0000'/>
+         <DEV_TOTAL_NUM_IUI_RETRIES Description='' Value='3'/>
+         <DEV_MAX_NUM_CONSECUTIVE_IUI_RETRIES Description='' Value='0'/>
+         <DEV_PM_IUI_DISCONNECT_SCENARIO Description='IDLE_DISCONNECT' Value='0'/>
+      </DEV_PM_IUI_DIAGNOSTICS_NEST>
+   </DEV_PM_DIAGNOSTICS_REPORT>
+</Log>
+
+
+                               -----------------------     This Viewer Screen Update Count ( 6 )     ----------------------- 
+
+Current Logs Directory at: =>   " C:\Program Files (x86)\Becton Dickinson\CATS 7.0\medley " 
+Reading Log from File:       => "( 6 )_PCU_SN_13918019_LogsCapturedTime_06_04_2018_03_35_23 p. m..logs"
+At Time: 04/06/2018 03:35:25 p. m.
+
+<?xml version='1.0' encoding='UTF-8'?>
+<Log>
+   <CFG_RESPONSE_ATTACHED_UNITS>
+      <CFG_TRANSACTION_ID Description='' Value='0'/>
+      <CFG_HISTORICAL_DATA_NEST>
+         <CFG_HISTORICAL_DATE_TIME Description='' Value='581441688'/>
+         <CFG_REASON_CODE Description='MODULE_ATTACHED' Value='7'/>
+         <CFG_SEQUENCE_NUMBER Description='' Value='47843'/>
+      </CFG_HISTORICAL_DATA_NEST>
+      <CFG_PM_MODEL_NUMBER Description='' Value='8015'/>
+      <CFG_PM_SERIAL_NUMBER Description='' Value='13918019'/>
+      <CFG_ATTACHED_UNITS_ARRAY>
+         <CFG_ATTACHED_UNITS_NEST>
+            <CFG_MODULE_TYPE Description='LVP' Value='0'/>
+            <CFG_MODULE_MODEL_NUMBER Description='' Value='8100'/>
+            <CFG_MODULE_SERIAL_NUMBER Description='' Value='14729245'/>
+            <CFG_MODULE_VERSION Value='12.1.0.34'/>
+            <CFG_UPDATE_TIMESTAMP Description='' Value='579798991'/>
+         </CFG_ATTACHED_UNITS_NEST>
+         <CFG_ATTACHED_UNITS_NEST>
+            <CFG_MODULE_TYPE Description='PCA' Value='3'/>
+            <CFG_MODULE_MODEL_NUMBER Description='' Value='8120'/>
+            <CFG_MODULE_SERIAL_NUMBER Description='' Value='14307097'/>
+            <CFG_MODULE_VERSION Value='9.33.0.50'/>
+         </CFG_ATTACHED_UNITS_NEST>
+      </CFG_ATTACHED_UNITS_ARRAY>
+   </CFG_RESPONSE_ATTACHED_UNITS>
+</Log>
+
+
+                               -----------------------     This Viewer Screen Update Count ( 7 )     ----------------------- 
+
+Current Logs Directory at: =>   " C:\Program Files (x86)\Becton Dickinson\CATS 7.0\medley " 
+Reading Log from File:       => "( 1 )_PCU_SN_13918019_LogsCapturedTime_06_04_2018_03_38_26 p. m..logs"
+At Time: 04/06/2018 03:38:28 p. m.
+
+<?xml version='1.0' encoding='UTF-8'?>
+<Log>
+   <CFG_RESPONSE_ATTACHED_UNITS>
+      <CFG_TRANSACTION_ID Description='' Value='0'/>
+      <CFG_HISTORICAL_DATA_NEST>
+         <CFG_HISTORICAL_DATE_TIME Description='' Value='581441870'/>
+         <CFG_REASON_CODE Description='MODULE_DETACHED' Value='8'/>
+         <CFG_SEQUENCE_NUMBER Description='' Value='47844'/>
+      </CFG_HISTORICAL_DATA_NEST>
+      <CFG_PM_MODEL_NUMBER Description='' Value='8015'/>
+      <CFG_PM_SERIAL_NUMBER Description='' Value='13918019'/>
+      <CFG_ATTACHED_UNITS_ARRAY>
+         <CFG_ATTACHED_UNITS_NEST>
+            <CFG_MODULE_TYPE Description='PCA' Value='3'/>
+            <CFG_MODULE_MODEL_NUMBER Description='' Value='8120'/>
+            <CFG_MODULE_SERIAL_NUMBER Description='' Value='14307097'/>
+            <CFG_MODULE_VERSION Value='9.33.0.50'/>
+         </CFG_ATTACHED_UNITS_NEST>
+      </CFG_ATTACHED_UNITS_ARRAY>
+   </CFG_RESPONSE_ATTACHED_UNITS>
+   <DEV_PM_DIAGNOSTICS_REPORT>
+      <DEV_TRANSACTION_ID Description='' Value='0'/>
+      <DEV_HISTORICAL_DATA_NEST>
+         <DEV_HISTORICAL_DATE_TIME Description='' Value='581441870'/>
+         <DEV_REASON_CODE Description='MODULE_DETACHED' Value='8'/>
+         <DEV_SEQUENCE_NUMBER Description='' Value='47845'/>
+      </DEV_HISTORICAL_DATA_NEST>
+      <DEV_PM_IUI_DIAGNOSTICS_NEST>
+         <DEV_MODULE_NEST>
+            <DEV_PM_MODEL_NUMBER Description='' Value='8015'/>
+            <DEV_PM_SERIAL_NUMBER Description='' Value='13918019'/>
+            <DEV_MODULE_MODEL_NUMBER Description='' Value='8100'/>
+            <DEV_MODULE_SERIAL_NUMBER Description='' Value='14729245'/>
+         </DEV_MODULE_NEST>
+         <DEV_IUI_CONNECTION_ID Description='' Value='581441639'/>
+         <DEV_TOTAL_NUM_IUI_PACKET_ERRORS Description='' Value='0'/>
+         <DEV_TOTAL_NUM_IUI_PACKETS Description='' Value='919'/>
+         <DEV_PERCENTAGE_IUI_PACKET_ERRORS Value='0.0000'/>
+         <DEV_TOTAL_NUM_IUI_RETRIES Description='' Value='3'/>
+         <DEV_MAX_NUM_CONSECUTIVE_IUI_RETRIES Description='' Value='0'/>
+         <DEV_PM_IUI_DISCONNECT_SCENARIO Description='IDLE_DISCONNECT' Value='0'/>
+      </DEV_PM_IUI_DIAGNOSTICS_NEST>
+   </DEV_PM_DIAGNOSTICS_REPORT>
+</Log>
+
+
+                               -----------------------     This Viewer Screen Update Count ( 8 )     ----------------------- 
+
+Current Logs Directory at: =>   " C:\Program Files (x86)\Becton Dickinson\CATS 7.0\medley " 
+Reading Log from File:       => "( 2 )_PCU_SN_13918019_LogsCapturedTime_06_04_2018_03_39_30 p. m..logs"
+At Time: 04/06/2018 03:39:32 p. m.
+
+<?xml version='1.0' encoding='UTF-8'?>
+<Log>
+   <DEV_PM_DIAGNOSTICS_REPORT>
+      <DEV_TRANSACTION_ID Description='' Value='0'/>
+      <DEV_HISTORICAL_DATA_NEST>
+         <DEV_HISTORICAL_DATE_TIME Description='' Value='581441934'/>
+         <DEV_REASON_CODE Description='USER_POWERDOWN' Value='25'/>
+         <DEV_SEQUENCE_NUMBER Description='' Value='47846'/>
+      </DEV_HISTORICAL_DATA_NEST>
+      <DEV_PM_IUI_DIAGNOSTICS_NEST>
+         <DEV_MODULE_NEST>
+            <DEV_PM_MODEL_NUMBER Description='' Value='8015'/>
+            <DEV_PM_SERIAL_NUMBER Description='' Value='13918019'/>
+            <DEV_MODULE_MODEL_NUMBER Description='' Value='8120'/>
+            <DEV_MODULE_SERIAL_NUMBER Description='' Value='14307097'/>
+         </DEV_MODULE_NEST>
+         <DEV_IUI_CONNECTION_ID Description='' Value='581441688'/>
+         <DEV_TOTAL_NUM_IUI_PACKET_ERRORS Description='' Value='0'/>
+         <DEV_TOTAL_NUM_IUI_PACKETS Description='' Value='960'/>
+         <DEV_PERCENTAGE_IUI_PACKET_ERRORS Value='0.0000'/>
+         <DEV_TOTAL_NUM_IUI_RETRIES Description='' Value='0'/>
+         <DEV_MAX_NUM_CONSECUTIVE_IUI_RETRIES Description='' Value='0'/>
+         <DEV_PM_IUI_DISCONNECT_SCENARIO Description='IDLE_DISCONNECT' Value='0'/>
+      </DEV_PM_IUI_DIAGNOSTICS_NEST>
+   </DEV_PM_DIAGNOSTICS_REPORT>
+</Log>
+
+
+                               -----------------------     This Viewer Screen Update Count ( 9 )     ----------------------- 
+
+Current Logs Directory at: =>   " C:\Program Files (x86)\Becton Dickinson\CATS 7.0\medley " 
+Reading Log from File:       => "( 3 )_PCU_SN_13918019_LogsCapturedTime_06_04_2018_03_39_33 p. m..logs"
+At Time: 04/06/2018 03:39:35 p. m.
+
+<?xml version='1.0' encoding='UTF-8'?>
+<Log>
+   <CFG_RESPONSE_ATTACHED_UNITS>
+      <CFG_TRANSACTION_ID Description='' Value='0'/>
+      <CFG_HISTORICAL_DATA_NEST>
+         <CFG_HISTORICAL_DATE_TIME Description='' Value='581441938'/>
+         <CFG_REASON_CODE Description='MODULE_DETACHED' Value='8'/>
+         <CFG_SEQUENCE_NUMBER Description='' Value='47847'/>
+      </CFG_HISTORICAL_DATA_NEST>
+      <CFG_PM_MODEL_NUMBER Description='' Value='8015'/>
+      <CFG_PM_SERIAL_NUMBER Description='' Value='13918019'/>
+   </CFG_RESPONSE_ATTACHED_UNITS>
+   <PRO_RESPONSE_PM_SIGN_OFF_NOTICE>
+      <PRO_TRANSACTION_ID Description='' Value='0'/>
+      <PRO_HISTORICAL_DATA_NEST>
+         <PRO_HISTORICAL_DATE_TIME Description='' Value='581441939'/>
+         <PRO_REASON_CODE Description='USER_POWERDOWN' Value='25'/>
+         <PRO_SEQUENCE_NUMBER Description='' Value='47848'/>
+      </PRO_HISTORICAL_DATA_NEST>
+      <PRO_PM_MODEL_NUMBER Description='' Value='8015'/>
+      <PRO_PM_SERIAL_NUMBER Description='' Value='13918019'/>
+      <PRO_PM_TYPE Description='REAL' Value='0'/>
+   </PRO_RESPONSE_PM_SIGN_OFF_NOTICE>
+</Log>
+
+
