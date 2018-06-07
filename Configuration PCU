@@ -4,7 +4,7 @@
 
 Host PC:
 
-Date Created :  Thursday, June 7th, 2018
+Date Created :  Friday, June 8th, 2018
 Tester Name :  Jorge Medina
 Tester Domain Name :  DESKTOP-QHSGPE3
 Test PC Host Name :  DESKTOP-QHSGPE3
@@ -65,61 +65,23 @@ Wireless Boot Version : 9.12.40.4
 
 Module Name : LVP
 Module Number : 8100
-Serial Number : 14643428
-Main Processor : 12.1.0.32
-Boot Block : 9.1.17.7
-Keyboard : 1.1.1.0
-Safety : 1.1.1.0
-
-Module Name : LVP
-Module Number : 8100
-Serial Number : 14643453
-Main Processor : 9.17.0.22
-Boot Block : 9.1.17.7
-Keyboard : 1.1.1.0
-Safety : 1.1.1.0
-
-Module Name : LVP
-Module Number : 8100
-Serial Number : 14315699
-Main Processor : 12.1.0.8
-Boot Block : 9.1.17.7
-Keyboard : 1.1.1.0
-Safety : 1.1.1.0
-
-Module Name : LVP
-Module Number : 8100
-Serial Number : 14306309
+Serial Number : 14728858
 Main Processor : 9.33.0.50
-Boot Block : 9.1.17.7
-Keyboard : 1.1.1.0
-Safety : 1.1.1.0
-
-Module Name : LVP
-Module Number : 8100
-Serial Number : 13682228
-Main Processor : 12.1.0.28
-Boot Block : 1.12.2.0
+Boot Block : 12.0.0.18
 Keyboard : 1.1.1.0
 Safety : 1.1.1.0
 
 Software Applications:
 
 Application Name: ASM
-Application Version: 12.0.1.24
-
-Application Name: Systems Manager
-Application Version: 12.0.1.31
-
-Application Name: Infusion System Log Viewer
-Application Version: 1.6.0.5
+Application Version: 10.33.0.50
 
 Test Data:
 
-Test Case ID : 37726
-DataSet Name : 3E_dataset_ISIS_MR1.gre
-RF Card Type : Summit
-RF Serial Number : 1813011577
+Test Case ID : 34159
+DataSet Name : N/A
+RF Card Type : N/A
+RF Serial Number : N/A
 Server Type : N/A
 Comments : N/A
 
