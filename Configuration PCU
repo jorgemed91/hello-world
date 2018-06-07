@@ -15,13 +15,93 @@ Alaris System Configuration:
 
 PCU
 Module Number : 8015
-Serial Number : 13918019 14354523
-Main Processor : 12.1.0.36
-Boot Block : 12.1.0.12
+Serial Number : 14354523
+Main Processor : 9.33.1.2
+Boot Block : 9.13.0.54
 Keyboard : 9.12.41.2
 Power Supply : 8.15.6.0
-Wireless Main : 12.1.0.36
-Wireless Boot Version : 12.1.0.36
+Wireless Main : 9.33.1.2
+Wireless Boot Version : 9.33.1.2
+
+PCU
+Module Number : 8015
+Serial Number : 15094710
+Main Processor : 9.19.1.2
+Boot Block : 9.13.0.54
+Keyboard : 9.12.41.2
+Power Supply : 8.15.6.0
+Wireless Main : 9.19.1.2
+Wireless Boot Version : 9.19.1.2
+
+PCU
+Module Number : 8015
+Serial Number : 13918019
+Main Processor : 9.15.0.28
+Boot Block : 9.12.0.10
+Keyboard : 9.12.2.4
+Power Supply : 8.15.6.0
+Wireless Main : 9.15.0.28
+Wireless Boot Version : 9.15.0.28
+
+PCU
+Module Number : 8015
+Serial Number : 15094597
+Main Processor : 9.13.0.54
+Boot Block : 9.13.0.54
+Keyboard : 9.12.41.2
+Power Supply : 8.15.6.0
+Wireless Main : 9.13.0.54
+Wireless Boot Version : 9.13.0.54
+
+PCU
+Module Number : 8015
+Serial Number : 15098751
+Main Processor : 9.12.40.4
+Boot Block : 9.12.0.10
+Keyboard : 9.12.41.2
+Power Supply : 8.15.6.0
+Wireless Main : 9.12.40.4
+Wireless Boot Version : 9.12.40.4
+
+Module Name : LVP
+Module Number : 8100
+Serial Number : 14643428
+Main Processor : 12.1.0.32
+Boot Block : 9.1.17.7
+Keyboard : 1.1.1.0
+Safety : 1.1.1.0
+
+Module Name : LVP
+Module Number : 8100
+Serial Number : 14643453
+Main Processor : 9.17.0.22
+Boot Block : 9.1.17.7
+Keyboard : 1.1.1.0
+Safety : 1.1.1.0
+
+Module Name : LVP
+Module Number : 8100
+Serial Number : 14315699
+Main Processor : 12.1.0.8
+Boot Block : 9.1.17.7
+Keyboard : 1.1.1.0
+Safety : 1.1.1.0
+
+Module Name : LVP
+Module Number : 8100
+Serial Number : 14306309
+Main Processor : 9.33.0.50
+Boot Block : 9.1.17.7
+Keyboard : 1.1.1.0
+Safety : 1.1.1.0
+
+Module Name : LVP
+Module Number : 8100
+Serial Number : 13682228
+Main Processor : 12.1.0.28
+Boot Block : 1.12.2.0
+Keyboard : 1.1.1.0
+Safety : 1.1.1.0
 
 Software Applications:
 
