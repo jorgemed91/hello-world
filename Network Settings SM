@@ -5,6 +5,12 @@ Passphrase: 9876543210np!
 Encryption Key: 7E41C9AC3A47C3DDB9D0D9EB857ECB92
 Host: 172.16.15.24
 
+Static IP Address: 172.22 .186.145
+DNS:  255.255.255.0  
+Default gateway:  172.22 .186.1  
+Preferred DNS: 172.22 .185.10 
+Alternate DNS: 10 .160.80 .234
+
 
 SSID: ISE Test
 Security Type: WPA2-EAP-TLS
